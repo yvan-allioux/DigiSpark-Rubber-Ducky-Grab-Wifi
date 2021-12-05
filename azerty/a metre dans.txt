@@ -1,0 +1,1 @@
+C:\Users\yvan\Documents\ArduinoData\packages\digistump\hardware\avr\1.6.7\libraries\DigisparkKeyboard
